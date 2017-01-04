@@ -7,3 +7,4 @@
 - [Week 5](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_5.md)
 - [Week 6](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_6.md)
 - [Week 7](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_7.md)
+- [Week 8](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_8.md)
