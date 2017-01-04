@@ -9,3 +9,4 @@
 - [Week 7](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_7.md)
 - [Week 8](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_8.md)
 - [Week 9](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_9.md)
+- [Week 10](https://github.com/rgrantwylie/lecture_notes/blob/gh-pages/week_10.md)
