@@ -14,9 +14,9 @@
 <li>April Grieman - b1948</li>
 </ul>
 
-<blockquote>Don’t type with design, illustrate with it
+<blockquote>Don’t type with design, illustrate with it.<br>
 
-Citi-bank logo - 34 years / 1 second = experience led to that quick idea = 30 grand<br><br>
+Citi-bank logo - 34 years / 1 second = experience led to that quick idea = 30 grand.<br><br>
 - Paula Scher</blockquote>
 
 
